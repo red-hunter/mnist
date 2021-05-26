@@ -1,1 +1,1 @@
-## Sentiment Analysis using the popular MNIST dataset
+## Classifying hand written digits using the popular MNIST dataset
